@@ -1,5 +1,5 @@
 import java.util.Scanner;
-// Coin Porgram
+// Coin Program
 public class Coin_Change {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
